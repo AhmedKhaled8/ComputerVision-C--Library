@@ -2,7 +2,6 @@
 
 This repository contains the implementation of major computer vision algorithms in C++ regarding filtering, detection, segmentation, etc. These were tasks of the Computer Vision - 404B course in Systems and Biomedical Engineering - Cairo University.
 
-
 Team Members:
 
 1. [Ahmed Khaled](https://github.com/AhmedKhaled8)
