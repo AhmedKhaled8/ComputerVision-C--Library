@@ -1,0 +1,1 @@
+g++ -g main.cpp canny.cpp GUI_init.cpp GUI_signals.cpp  --std=c++17 -o output `pkg-config --cflags --libs opencv` `pkg-config gtkmm-3.0 --cflags --libs`
